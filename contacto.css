@@ -1,0 +1,72 @@
+*{
+    margin: 10px;
+}
+body{
+    background-color:thistle;
+}
+
+img{
+    width: 30%;
+    display: block;
+    margin: auto;
+}
+label{
+    color:blueviolet;
+    font-weight: bold;
+    background-color:blanchedalmond;
+    margin-bottom:20px;
+    margin-top:20px;
+    padding: 5px;
+    width: 300px;
+    font-size: 15px;
+    font-style: oblique;
+    display:block;
+    margin:auto;
+}
+
+input{
+    color:black;
+    background-color:aqua;
+    margin-bottom:20px;
+    margin-top:20px;
+    padding: 5px;
+    width: 300px;
+    font-size: 15px;
+    font-style: oblique;
+    display:block;
+    margin:auto;
+
+}
+select{
+    background-color:aqua;
+    font-weight: bold;
+    margin-bottom:20px;
+    margin-top:20px;
+    padding: 5px;
+    width: 300px;
+    font-size: 15px;
+    font-style: oblique;
+    display:block;
+    margin:auto;
+}
+
+textarea{
+    background-color:blanchedalmond;
+    font-weight: bold;
+    margin-bottom:20px;
+    margin-top:20px;
+    padding: 5px;
+    width: 300px;
+    font-size: 15px;
+    font-style: oblique;
+    display:block;
+    margin:auto;
+
+}
+.text-center{
+    text-align: center;
+}
+
+
+
+
